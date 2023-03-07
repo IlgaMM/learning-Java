@@ -21,6 +21,10 @@ public class Learning {
         char burts = 'D';
         boolean patiesiba = true;
         String teksts = "Hello";
+        //teksts plus atseviski noteikts teksts
+        String mansVards = "Ilga";
+        System.out.println("Miezaine_Mustermane " + mansVards);
+
 
     }
 }
