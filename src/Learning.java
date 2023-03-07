@@ -6,6 +6,11 @@ public class Learning {
         System.out.println(vards);
         int cipars = 18;
         System.out.println(cipars);
+        //var ciparu vertibu definet ar tekstu
+        int vecums;
+        vecums = 35;
+        System.out.println(vecums);
+
 
     }
 }
