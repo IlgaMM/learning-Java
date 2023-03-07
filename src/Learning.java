@@ -10,6 +10,10 @@ public class Learning {
         int vecums;
         vecums = 35;
         System.out.println(vecums);
+        //var mainit noteikto cipara vertibu vardam
+        int mainuvecumu = 20;
+        mainuvecumu = 15;
+        System.out.println(mainuvecumu);
 
 
     }
