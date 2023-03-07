@@ -71,5 +71,18 @@ public class Learning {
      //Scientific Numbers
         // A floating point number can also be a scientific number with an "e" to indicate the power of 10:
 
+        //Very often in programming, you will need a data type that can only have one of two values, like:
+        //
+        //YES / NO
+        //ON / OFF
+        //TRUE / FALSE
+        boolean isJavaFun = true;
+        boolean isFishTasty = false;
+        System.out.println(isJavaFun);
+        System.out.println(isFishTasty);
+
+
+
+
     }
 }
