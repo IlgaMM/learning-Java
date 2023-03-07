@@ -42,6 +42,22 @@ public class Learning {
         int d, e, f;
         d = e = f = 50;
         System.out.println(d + e + f);
+        //The general rules for naming variables are:
+        //
+        //Names can contain letters, digits, underscores, and dollar signs
+        //Names must begin with a letter
+        //Names should start with a lowercase letter and it cannot contain whitespace
+        //Names can also begin with $ and _ (but we will not use it in this tutorial)
+        //Names are case sensitive ("myVar" and "myvar" are different variables)
+        //Reserved words (like Java keywords, such as int or boolean) cannot be used as names
+        //Data types are divided into two groups:
+        //
+        //Primitive data types - includes byte, short, int, long, float, double, boolean and char
+        //Non-primitive data types - such as String, Arrays and Classes (you will learn more about these in a later chapter)
+        //Primitive Data Types
+        //A primitive data type specifies the size and type of variable values, and it has no additional methods.
+        //
+        //There are eight primitive data types in Java:
 
 
 
