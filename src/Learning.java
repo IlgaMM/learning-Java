@@ -22,8 +22,13 @@ public class Learning {
         boolean patiesiba = true;
         String teksts = "Hello";
         //teksts plus atseviski noteikts teksts
-        String mansVards = "Ilga";
+        String mansVards = "Ilga ";
         System.out.println("Miezaine_Mustermane " + mansVards);
+        //lai noteiktu visu vardu uzvardu ar saisinajumu
+        String mansUzvards = "Miezaine Mustermane";
+        String mansVardsUzvards = mansVards + mansUzvards;
+        System.out.println(mansVardsUzvards);
+
 
 
     }
