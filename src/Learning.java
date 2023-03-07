@@ -16,11 +16,11 @@ public class Learning {
         System.out.println(mainuvecumu);
         //lai nebutu jamaina viss kods var noteikt gala vertibu vardam ar final int
         //citi saglabasanas kodi
-        int skaitlis = 5;
-        float decimalskaitlis = 5.99f;
-        char burts = 'D';
-        boolean patiesiba = true;
-        String teksts = "Hello";
+//         int skaitlis = 5;
+//        float decimalskaitlis = 5.99f;
+//        char burts = 'D';
+//        boolean patiesiba = true;
+//        String teksts = "Hello";
         //teksts plus atseviski noteikts teksts
         String mansVards = "Ilga ";
         System.out.println("Miezaine_Mustermane " + mansVards);
@@ -28,6 +28,10 @@ public class Learning {
         String mansUzvards = "Miezaine Mustermane";
         String mansVardsUzvards = mansVards + mansUzvards;
         System.out.println(mansVardsUzvards);
+        //matematiski piemeri
+        int x = 5;
+        int y = 6;
+        System.out.println(x + y); //saglaba summas vertibu
 
 
 
