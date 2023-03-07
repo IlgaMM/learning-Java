@@ -15,7 +15,12 @@ public class Learning {
         mainuvecumu = 15;
         System.out.println(mainuvecumu);
         //lai nebutu jamaina viss kods var noteikt gala vertibu vardam ar final int
-        final int mainuvecumu = 15;
+        //citi saglabasanas kodi
+        int skaitlis = 5;
+        float decimalskaitlis = 5.99f;
+        char burts = 'D';
+        boolean patiesiba = true;
+        String teksts = "Hello";
 
     }
 }
