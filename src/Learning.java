@@ -4,5 +4,8 @@ public class Learning {
         System.out.println("Mani pirmie kodi");
         String vards = "Ilga";
         System.out.println(vards);
+        int cipars = 18;
+        System.out.println(cipars);
+
     }
 }
