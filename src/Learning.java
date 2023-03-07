@@ -33,6 +33,16 @@ public class Learning {
         int y = 6;
         System.out.println(x + y); //saglaba summas vertibu
 
+        // isak var rakstit   int a = 5, int b = 6, int c = 50;
+        int a = 5;
+        int b = 6;
+        int c = 50;
+        System.out.println(a + b + c);
+
+        int d, e, f;
+        d = e = f = 50;
+        System.out.println(d + e + f);
+
 
 
     }
