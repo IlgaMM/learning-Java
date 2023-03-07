@@ -59,7 +59,17 @@ public class Learning {
         //
         //There are eight primitive data types in Java:
 
-
+        float f1 = 35e3f;
+        double d1 = 12E4d;
+        System.out.println(f1);
+        System.out.println(d1);
+// Use float or double?
+//
+//The precision of a floating point value indicates how many digits the value can have after the decimal point.
+// The precision of float is only six or seven decimal digits, while double variables have a precision of about 15 digits.
+// Therefore it is safer to use double for most calculations.
+     //Scientific Numbers
+        // A floating point number can also be a scientific number with an "e" to indicate the power of 10:
 
     }
 }
