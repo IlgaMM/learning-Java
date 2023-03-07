@@ -14,7 +14,8 @@ public class Learning {
         int mainuvecumu = 20;
         mainuvecumu = 15;
         System.out.println(mainuvecumu);
-
+        //lai nebutu jamaina viss kods var noteikt gala vertibu vardam ar final int
+        final int mainuvecumu = 15;
 
     }
 }
